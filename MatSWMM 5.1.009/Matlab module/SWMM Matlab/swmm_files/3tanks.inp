@@ -93,7 +93,7 @@ DES-2            2493.63    FREE                        NO
 DES-3            2493.13    FREE                        NO                       
 
 [STORAGE]
-;;Name           Elev.    MaxDepth   InitDepth  Shape      Curve Name/Params                     Fevap    Psi      Ksat     IMD     
+;;Name           Elev.    MaxDepth   InitDepth  Shape      Curve Name/Params            N/A      Fevap    Psi      Ksat     IMD     
 ;;-------------- -------- ---------- ----------- ---------- ---------------------------- -------- --------          -------- --------
 V-1              2493     5          0          FUNCTIONAL 5500      0         0        0        0       
 V-2              2494.28  4          0          FUNCTIONAL 1800      0         0        0        0       
@@ -207,7 +207,7 @@ LINKS ALL
 [TAGS]
 
 [MAP]
-DIMENSIONS 0.000 0.000 10000.000 10000.000
+DIMENSIONS -6032.191 -537.470 4840.566 5717.242
 Units      None
 
 [COORDINATES]
